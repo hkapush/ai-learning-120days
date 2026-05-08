@@ -10,8 +10,6 @@ print("a * b =", a * b)
 print("mean of a =", a.mean())
 print("sum of b =", b.sum())
 
-
-
 matrix = np.array([
     [1, 2, 3],
     [4, 5, 6]

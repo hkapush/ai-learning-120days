@@ -13,8 +13,6 @@ print(type(df))
 print(df["name"])
 print(df["score"].mean())
 
-
-
 print(df[df["score"] > 85])
 print(df[["name", "score"]])
 
